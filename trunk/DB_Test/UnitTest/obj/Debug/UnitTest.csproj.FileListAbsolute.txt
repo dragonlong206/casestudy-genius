@@ -1,0 +1,12 @@
+E:\Long's Documents\hoc ki 6\Kiem chung phan mem\Do an cuoi ki\Source code\Advising System\UnitTest\bin\Debug\UnitTest.dll
+E:\Long's Documents\hoc ki 6\Kiem chung phan mem\Do an cuoi ki\Source code\Advising System\UnitTest\bin\Debug\UnitTest.pdb
+E:\Long's Documents\hoc ki 6\Kiem chung phan mem\Do an cuoi ki\Source code\Advising System\UnitTest\bin\Debug\Advising System.dll
+E:\Long's Documents\hoc ki 6\Kiem chung phan mem\Do an cuoi ki\Source code\Advising System\UnitTest\bin\Debug\nunit.framework.dll
+E:\Long's Documents\hoc ki 6\Kiem chung phan mem\Do an cuoi ki\Source code\Advising System\UnitTest\bin\Debug\nunit.mocks.dll
+E:\Long's Documents\hoc ki 6\Kiem chung phan mem\Do an cuoi ki\Source code\Advising System\UnitTest\bin\Debug\AjaxControlToolkit.dll
+E:\Long's Documents\hoc ki 6\Kiem chung phan mem\Do an cuoi ki\Source code\Advising System\UnitTest\bin\Debug\nunit.framework.xml
+E:\Long's Documents\hoc ki 6\Kiem chung phan mem\Do an cuoi ki\Source code\Advising System\UnitTest\bin\Debug\Advising System.pdb
+E:\Long's Documents\hoc ki 6\Kiem chung phan mem\Do an cuoi ki\Source code\Advising System\UnitTest\bin\Debug\Advising System.XmlSerializers.dll
+E:\Long's Documents\hoc ki 6\Kiem chung phan mem\Do an cuoi ki\Source code\Advising System\UnitTest\obj\Debug\ResolveAssemblyReference.cache
+E:\Long's Documents\hoc ki 6\Kiem chung phan mem\Do an cuoi ki\Source code\Advising System\UnitTest\obj\Debug\UnitTest.dll
+E:\Long's Documents\hoc ki 6\Kiem chung phan mem\Do an cuoi ki\Source code\Advising System\UnitTest\obj\Debug\UnitTest.pdb
